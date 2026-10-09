@@ -30,7 +30,7 @@ Worked on JSON/CSV storage, saving meal plans and shopping-list data, and import
  5. Jeremiah Okewu — Math Logic & Scaling Lead
 Worked on serving-size calculations, ingredient scaling and fraction/decimal conversions.
 
- 6. Princess Okhai — UI/UX & System Integrator
+ 6. Princess Okhai — UI/UX & System Integrator,
 Designed and developed the Streamlit interface, worked on recipe discovery, meal planning, serving controls, shopping lists and overall application integration.
 
 ### Technical Focus
